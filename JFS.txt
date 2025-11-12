@@ -1,5 +1,42 @@
+GIT installation and creation 
+
 STEP1: Instal GIT from below link
 https://git-scm.com/install/windows
 
 STEP2:create account in 
 https://github.com
+
+STEP3:Create a new repository
+
+STEP4:repository name should be same as folder name 
+
+STEP5:Add README on
+
+
+CMD verification 
+
+STEP6:open cmd on folder path
+
+STEP7:type dir
+
+STEP8: type jfs.txt
+
+STEP9:git init
+
+STEP10:dir /a:h
+
+STEP11:git add *.*
+
+STEP12: git remote add origin https://github.com/gkirankumar-cell/JFS2025.git(https link from GitHub
+
+STEP13:git config --global user.email "g.kirankumar@iare.ac.in"
+
+STEP14:git config --global user.name "gkirankumar-cell"
+
+STEP15:git commit -m "JFS FDP DAY1"
+
+STEP16: git remote add origin https://github.com/gkirankumar-cell/JFS2025.git
+
+STEP17: git push origin master
+
+*******completed**********
