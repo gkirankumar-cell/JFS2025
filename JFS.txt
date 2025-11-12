@@ -40,3 +40,7 @@ STEP16: git remote add origin https://github.com/gkirankumar-cell/JFS2025.git
 STEP17: git push origin master
 
 *******completed**********
+
+git add .
+
+git commit -m "12 pm"
